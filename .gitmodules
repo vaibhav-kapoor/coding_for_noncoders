@@ -1,0 +1,21 @@
+[submodule "vim/bundle/vundle"]
+	path = vim/bundle/vundle
+	url = http://github.com/gmarik/vundle.git
+[submodule "vim/bundle/python-mode"]
+	path = vim/bundle/python-mode
+	url = git://github.com/klen/python-mode.git
+[submodule "vim/bundle/YouCompleteMe"]
+	path = vim/bundle/YouCompleteMe
+	url = git://github.com/Valloric/YouCompleteMe
+[submodule "vim/bundle/jedi"]
+	path = vim/bundle/jedi
+	url = git://github.com/davidhalter/jedi.git
+[submodule "vim/bundle/jedi-vim"]
+	path = vim/bundle/jedi-vim
+	url = git://github.com/davidhalter/jedi-vim.git
+[submodule "vim/bundle/vim-sensible"]
+	path = vim/bundle/vim-sensible
+	url = git://github.com/tpope/vim-sensible.git
+[submodule "vim/bundle/color-schemes"]
+	path = vim/bundle/color-schemes
+	url = git://github.com/chrishunt/color-schemes.git
